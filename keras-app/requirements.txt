@@ -1,0 +1,8 @@
+keras
+tensorflow
+flask
+gevent
+pillow
+requests
+numpy
+theano
